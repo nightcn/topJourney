@@ -5,11 +5,14 @@
 }
 
 .page {
-  overflow: hidden;
-  background-color: #eaedf0;
+  /* overflow: hidden; */
   width: 900px;
   margin: 0 auto;
-  border: 1px solid red;
+}
+
+.container {
+  background-color: #eaedf0;
+  overflow: hidden;
 }
 
 .menu {
