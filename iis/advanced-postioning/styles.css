@@ -37,3 +37,13 @@ body {
   top: 10px;
   left: 10px;
 }
+
+.absolute {
+  position: relative;
+}
+
+.item-fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
